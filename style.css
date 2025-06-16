@@ -170,13 +170,13 @@ body {
 
 
 .problema {
-  background-color: #e9f4ff;
+  background-color: #ffffff;
   border-radius: 20px;
   padding: 40px;
 }
 
 .solucao {
-  background-color: #f0f9ff;
+  background-color: #ffffff;
   border-radius: 20px;
   padding: 40px;
 }
@@ -228,13 +228,13 @@ body {
     gap: 40px;
     flex-wrap: wrap;
     padding: 80px 8%;
-    background-color: #99afc5; 
+    background-color: #ffffff; 
 }
 
 
 .info-box {
     position: relative;
-    background: #ffffff;
+    background-color: #bcd7ff;
     padding: 60px 30px 30px 30px; 
     width: 300px;
     border-radius: 20px;
@@ -289,7 +289,7 @@ body {
 
 .diferenciais {
   padding: 100px 5% 80px;
-  background: linear-gradient(135deg, #6db4e7, #a7bbcc);
+  background: #bcd7ff;
   color: #1a237e;
   text-align: center;
 }
@@ -382,7 +382,11 @@ body {
   opacity: 0.95;
 }
 
-
+.mvp {
+  padding: 100px 5%;
+  background-color: #fff5f5;
+  text-align: center;
+}
 
 .mvp-titulo {
   font-size: 3.2rem;
@@ -393,6 +397,7 @@ body {
   letter-spacing: 1px;
   text-align: center;
 }
+
 
 
 .mvp-grid-centralizada {
@@ -413,7 +418,7 @@ body {
 }
 
 .mvp-card {
-  background: #b8d2e7;
+  background: #bcd7ff;
   border-radius: 20px;
   padding: 25px 20px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
@@ -470,7 +475,7 @@ body {
 
 
 .etapa-atual {
-  background: #78b5e7;
+  background: #bcd7ff;;
   padding: 100px 5%;
   text-align: center;
   position: relative;
@@ -485,17 +490,6 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 }
 
-.destaque-etapa {
-  display: inline-block;
-  background: linear-gradient(135deg, #0d426d 0%, #3f78c2 100%);
-  color: white;
-  padding: 15px 40px;
-  border-radius: 50px;
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin-bottom: 40px;
-  box-shadow: 0 5px 15px rgba(13,66,109,0.2);
-}
 
 .etapa-atual p {
   font-size: 1.8rem;
@@ -507,7 +501,7 @@ body {
 }
 
 .escalabilidade {
-  background: #e0ecff;
+  background: #ffffff;
   padding: 80px 5%;
   text-align: center;
   margin-top: 100px; 
@@ -532,7 +526,7 @@ body {
 }
 
 .futuro-item {
-  background: white;
+  background: #bcd7ff;
   padding: 30px 25px;
   border-radius: 20px;
   width: 100%;
